@@ -7,7 +7,7 @@ The specification for the language is available at http://cdn.cs50.net/2016/fall
 ## Changelog
 
 - `v0.0.0`
- - Introduced basic language elements.
+  - Introduced basic language elements.
 
 ## Credits
 
