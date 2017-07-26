@@ -1,0 +1,16 @@
+function main()
+{
+    // get user's name
+    $name <- get()
+
+    // say hello
+    hello($name)
+}
+
+function hello($s)
+{
+    // print "hello, $s\n", where $s is user's name
+    print("hello, ")
+    print($s)
+    print("\n")
+}

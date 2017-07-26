@@ -1,0 +1,11 @@
+function main()
+{
+    $x <- test()
+    print($x)
+    print("\n")
+}
+
+function test()
+{
+    return(3)
+}
